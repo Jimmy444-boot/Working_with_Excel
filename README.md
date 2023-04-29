@@ -10,4 +10,5 @@ Formular used include
 The car datebase was CSV file import to Excel and the data was cleaned for analysis.
 
 Link to the Excel sheet here https://1drv.ms/x/s!AhIQZaYkJ102kDy4gQVp5CskwyRH 
+To view the dashboard properly please dashboard.png uploaded as a seperate file
 
